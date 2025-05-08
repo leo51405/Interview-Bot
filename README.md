@@ -41,3 +41,5 @@ flowchart TD
 ## 使用GOOGLE API
 
 # Day5.設計prompt和建立題庫生成函式
+
+# Day6.實測完整流程 & 優化
